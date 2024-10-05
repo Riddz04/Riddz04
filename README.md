@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riddhi</h1>
-<h3 align="center">A currently learning full-stack web developer from Delhi, India</h3>
+<h3 align="center">A full-stack web developer from Delhi, India, currently learning.</h3>
 <img align="right" alt="CODING" width="400" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddz04&label=Profile%20views&color=0e75b6&style=flat" alt="riddz04" /> </p>
