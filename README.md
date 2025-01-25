@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddz04&label=Profile%20views&color=0e75b6&style=flat" alt="riddz04" /> </p>
 
-- 🔭 I’m currently working on **Captionize**
+- 🔭 I’m currently working on **Rank Tracker**
 
 - 🌱 I’m currently learning **Next.js, MongoDB, AWS S3**
 
