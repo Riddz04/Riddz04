@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddz04&label=Profile%20views&color=0e75b6&style=flat" alt="riddz04" /> </p>
 
-- 💻 I’m currently working on **Rank Tracker**
+- 💻 I’m currently working on **SERP Tracker**
 
-- 🌱 I’m currently learning **Data Science, AWS services**
+- 🌱 I’m currently learning **AI/ML integration in Full-Stack Development**
 
-- 💬 Ask me about **MERN, C++ (DSA),**
+- 💬 Ask me about **MERN, C++ (DSA) and my projects😎**
 
 - 📫 How to reach me **riddhidhawan4@gmail.com**
 
-- ⚡ Fun fact **I play basketball**
+- ⚡ Fun fact **I am a cinephile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
