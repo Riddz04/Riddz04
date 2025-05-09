@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddz04&label=Profile%20views&color=0e75b6&style=flat" alt="riddz04" /> </p>
 
-- 💻 I’m currently working on : **SERP Tracker**
+- 💻 I’m currently working on : **a new idea🤫**
 
 - 🌱 I’m currently learning : **AI/ML integration in Full-Stack Development**
 
