@@ -1,90 +1,53 @@
-<h1 align="center">Hi 👋, I'm Riddhi</h1>
-<h3 align="center">A full-stack web developer from Delhi, India, currently learning.</h3>
-<img align="right" alt="CODING" width="400" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riddz04&label=Profile%20views&color=0e75b6&style=flat" alt="riddz04" /> </p>
-
-- 💻 I’m currently working on : **a new idea🤫**
-
-- 🌱 I’m currently learning : **AI/ML integration in Full-Stack Development**
-
-- 💬 Ask me about : **MERN, C++ (DSA) and my projects😎**
-
-- 📫 How to reach me -> **riddhidhawan4@gmail.com**
-
-- ⚡ Fun fact : **I am a cinephile**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/riddhi-dhawan-844a20299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi-dhawan-844a20299" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/riddhi-dhawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="riddhi-dhawan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/riddz_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="riddz_11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/riddz_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riddz_11" height="30" width="40" /></a>
+<!-- Typing effect with Hey there -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Riddhi+%F0%9F%91%8B;Full-Stack+Developer+from+Delhi,+India;Rom-Com+Fan+%7C+Dog+Mom+%7C+Cinephile;AI+Enthusiast+(Kinda+Spooked+%F0%9F%A4%B7)" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddz04&show_icons=true&locale=en&layout=compact" alt="riddz04" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riddz04&show_icons=true&locale=en" alt="riddz04" /></p>
+```python
+class Riddhi:
+    def __init__(self):
+        self.name = "Riddhi Dhawan"
+        self.location = "Delhi, India"
+        self.role = "Full-Stack Developer"
+        self.pet = "Oreo 🐶"
+        self.hobbies = ["Binge-watching ", "Basketball", "Building cool web apps "]
+        self.fear = "AI... kinda spooky, ngl 🤖"
+        self.contact = "riddhidhawan4@gmail.com"
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddz04&" alt="riddz04" /></p>
+    def __str__(self):
+        return f"{self.name} | {self.role} | Dog Mom | Idea Factory(struggling rn)"
+```
+🔧 Tech Stack & Tools
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,flask,c,cpp,mongodb,mysql,git,github,aws,azure,docker,kubernetes,ffmpeg" height="100"/> </p>
+🐾 Fun Facts
+
+
+🐶 Oreo is the real boss around here.
+
+🎬 I can binge-watch rom-coms all day and still crave more.
+
+👾 Game dev is my secret (not-so-secret) hobby.
+
+🤖 AI? Cool... but are you sure it’s not plotting something?
+
+📫 Wanna connect?
+
+<p align="center"> <a href="mailto:riddhidhawan4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://linkedin.com/in/riddhi-dhawan-844a20299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://leetcode.com/riddz_11" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a> <a href="https://codeforces.com/profile/riddz_11" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a> <a href="https://stackoverflow.com/users/riddhi-dhawan" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a> </p>
+📊 GitHub Stats
+
+
+<p align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=riddz04&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=riddz04&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api?username=riddz04&show_icons=true" alt="GitHub Stats" /> </picture> <br/> <picture> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=riddz04&theme=radical" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=riddz04&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddz04" alt="GitHub Streak" /> </picture> <br/> <picture> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riddz04&layout=compact&theme=radical" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riddz04&layout=compact&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddz04&layout=compact" alt="Top Languages" /> </picture> </p>
+🚀 What I’m Up To
+
+-> Integrating AI/ML into Full-Stack development.
+
+-> Crafting indie games and web tools.
+
+-> Brainstorming the next big idea—often with Oreo by my side.
+
+“There’s no such thing as too many binge watching, ideas, or treats for Oreo.”
