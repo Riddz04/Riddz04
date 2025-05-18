@@ -5,6 +5,8 @@
 
 ---
 
+🔗 [Portfolio](riddhidev.vercel.app)
+
 ### 👩‍💻 About Me
 
 ```python
@@ -21,6 +23,7 @@ class Riddhi:
     def __str__(self):
         return f"{self.name} | {self.role} | Dog Mom | Idea Factory(struggling rn)"
 ```
+
 🔧 Tech Stack & Tools
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,flask,c,cpp,mongodb,mysql,git,github,aws,azure,docker,kubernetes,ffmpeg" height="100"/> </p>
