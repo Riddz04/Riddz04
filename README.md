@@ -5,7 +5,7 @@
 
 ---
 
-🔗 [Portfolio](https://riddhi-chi.vercel.app/)
+🔗 [Portfolio](https://riddhidevwork.vercel.app/)
 
 ### 👩‍💻 About Me
 
